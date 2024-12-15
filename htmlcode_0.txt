@@ -1,0 +1,207 @@
+<!DOCTYPE html>
+<html><body style="-ms-text-size-adjust: 100%; -webkit-text-size-adjust: 100%; margin: 0; padding: 0;">
+<p style="display: block; margin: 0;">
+
+
+
+
+</p>
+<title>Your Promotion Link</title>
+<!--[if !mso]><!-- --><meta http-equiv="X-UA-Compatible" content="IE=edge">
+<!--<![endif]--><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style type="text/css">#outlook a { padding:0; }           body { margin:0;padding:0;-webkit-text-size-adjust:100%;-ms-text-size-adjust:100%; }           table { border-spacing:0;}           img { border:0;height:auto;line-height:100%; outline:none;text-decoration:none;-ms-interpolation-mode:bicubic; }           p { display:block;margin:13px 0; }</style>
+<!--[if mso]>                    <xml>                      <o:OfficeDocumentSettings>                          <o:AllowPNG/>                          <o:PixelsPerInch>96</o:PixelsPerInch>                      </o:OfficeDocumentSettings>                    </xml>                        <style type="text/css">             table { border-collapse:collapse;mso-table-lspace:0pt;mso-table-rspace:0pt; }             .mj-outlook-group-fix { width:100% !important; }             .button-container a {background: transparent !important;}           </style>                  <![endif]--><!--[if !mso]><!--><link href="https://s3.amazonaws.com/assets.knak.io/custom-fonts/Arial/Arial.css" rel="stylesheet" type="text/css">
+<style type="text/css">@import url(https://s3.amazonaws.com/assets.knak.io/custom-fonts/Arial/Arial.css);</style>
+<!--<![endif]--><style type="text/css">@media only screen and (min-width:620px) {         .mj-column-per-100 { width:100% !important; max-width: 100%; }       }</style>
+<style type="text/css">@media only screen and (max-width:620px) {       table.mj-full-width-mobile { width: 100% !important; }       td.mj-full-width-mobile { width: auto !important; }     }</style>
+<style type="text/css">p { margin: 0 0;}ul { display: block; }ul li { list-style: disc; }body a {text-decoration: none; color: #0068A5;}.image-highlight{transition: 0.3s;}.image-highlight:hover {filter: brightness(1.2);}.button-highlight{transition: 0.3s;}.button-highlight:hover {filter: brightness(1.5);}@media only screen and (min-width: 620px) { .hide-on-mobile { display: block !important;} }@media only screen and (max-width: 620px) {         .hide-on-mobile { display: none !important;}         ..hide-on-desktop { display: block !important; max-height: none !important;}         .hide-on-desktop td { display: table-cell !important; max-height: none !important;} }.hide-on-desktop, .hide-on-desktop td {mso-hide: all; display: none; max-height: 0px; overflow: hidden;}</style>
+
+<div style="background: #121212;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: no-repeat center center / auto; border-spacing: 0; width: 100%;" class="section" bgcolor="transparent">
+<tbody>
+<tr>
+<td align="center">
+<!--[if mso | IE]>
+<table align="center" border="0" cellpadding="0" cellspacing="0" class="block-grid-outlook" style="width:600px;" width="600" >
+<tr>
+<td style="line-height:0px;font-size:0px;mso-line-height-rule:exactly;"><![endif]--><div style="background: transparent; margin: 0px auto; max-width: 600px;">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" style="background: no-repeat center center / auto; border-spacing: 0; width: 100%;" bgcolor="transparent">
+<tbody>
+<tr>
+<td style="font-size: 0px; padding: 0;" class="block-grid" align="center" valign="top">
+<table align="center" border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-spacing: 0;">
+<tr>
+<td style="direction: ltr; font-size: 0; line-height: 0;">
+<!--[if mso | IE]>
+<table role="presentation" border="0" cellpadding="0" cellspacing="0">
+<tr>
+<td style="vertical-align:top;width:600px;" ><![endif]-->
+            <table style="border-spacing: 0; margin: 0; max-width: 800px; padding: 0; width: 100% !important;" bgcolor="#141414">
+      <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+             <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+     </table>
+                 <table style="border-spacing: 0; margin: 0; max-width: 800px; padding: 0; width: 100% !important;" bgcolor="#141414">
+      <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+             <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+     </table>
+        <table style="border-spacing: 0; margin: 0; max-width: 800px; padding: 0; width: 100% !important;" bgcolor="#141414">
+      <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+             <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+     </table>
+     <table cellpadding="0" cellspacing="0" style="border-spacing: 0px !important; margin: 0; max-width: 800px; padding: 0; width: 100%;" bgcolor="#141414">
+       <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td width="47%"> </td>
+        <td width="6%" style="margin: 0; padding: 0;" bgcolor="#141414">
+          <img src="https://images.acct.epicgames.com/images/f9864de90a5cc1927d62dfd8e88672de/Epicgamesstorelogo.png" alt="Epic Games Store" align="center" border="0" style="-ms-interpolation-mode: bicubic; border: 0; display: block; height: auto; line-height: 100%; margin: 0%; outline: none; padding: 2.5% 0%; text-decoration: none; width: 100%;">
+        </td>
+        <td width="47%"> </td>
+        </tr>
+        </table> 
+            <table style="border-spacing: 0; margin: 0; max-width: 800px; padding: 0; width: 100% !important;" bgcolor="#141414">
+      <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td> </td>
+       </tr>
+     </table>
+     <table cellpadding="0" cellspacing="0" style="border-spacing: 0px !important; margin: 0; max-width: 800px; padding: 0; width: 100%;" bgcolor="#141414">
+       <tr style="margin: 0; padding: 0;" bgcolor="#141414">
+        <td width="100%" style="margin: 0; padding: 0;" bgcolor="#141414">
+          <img src="https://cdn1.epicgames.com/emailTemplate/emailTemplate/discord-FB-TW-image_1920x1080-c505dbf6d62f5577b76e629562dbd6f3" alt="Epic Games Store" align="center" border="0" style="display:block;padding:2.5% 0%;margin:0%;width:100%">
+        </td>
+        </tr>
+        </table> <div class="mj-column-per-100 mj-outlook-group-fix" style="direction: ltr; display: inline-block; font-size: 0px; vertical-align: top; width: 100%;" align="left">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-spacing: 0;">
+<tbody>
+<tr>
+<td style="border-radius: 0px; padding: 5px 0px;" bgcolor="transparent" valign="top">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" width="100%" style="border-spacing: 0;">
+<tr>
+<td align="center" class="img-container" style="font-size: 0px; padding: 0px; word-break: break-word;">
+<table border="0" cellpadding="0" cellspacing="0" role="presentation" style="border-collapse: collapse; border-spacing: 0px;">
+<tbody>
+</tbody>
+</table>
+</td>
+</tr>
+<tr>
+  
+  <td align="left" class="text-container" style="font-size: 0px; padding: 25px 25px 10px; word-break: break-word;">
+<div style="color: #FFFFFF; font-family: Arial, sans-serif; font-size: 13px; letter-spacing: none; line-height: 1.2;" align="left">
+  <p style="display: block; margin: 0; mso-line-height-alt: 19px;">
+    <span style="color: #ffffff; font-size: 16px;">
+<p style="text-align:start;" size="1">The time has arrived! You can claim one month of Discord Nitro on us. After a few short steps, start enjoying custom profiles, HD streaming, custom emoji, larger file uploads, and more Nitro perks!</p>
+<p style="padding:7.5px;"></p>
+<p style="text-align:start;text-indent:2em;" dir="ltr">How to redeem: </p>
+<ol>
+<li>This offer is valid for Discord users who have not subscribed to Nitro within the past 12 months, subject to Discord <a href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly9kaXNjb3JkLmNvbS90ZXJtcw/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/gZ1u5wA/s9te710a139" target="">Terms of Service</a> and <a href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly9kaXNjb3JkLmNvbS9wcml2YWN5/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/gZ1u5wA/sbv6adea876" target="">Privacy Policy</a>. </li>
+<li>Create a Discord account or log in if you already have one.</li>
+<li>Click the Nitro Giveaway button or copy and paste the link into your browser and follow the instructions on the page.</li>
+<li>If eligible, the 1 month subscription will be automatically added to your account.</li>
+<li>Now, kick back and enjoy those sweet Discord Nitro perks!</li>
+</ol>
+<p style="padding:7.5px;"></p>
+<p style="text-align:center;" size="0"><a href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly9wcm9tb3MuZGlzY29yZC5nZy9YTkZ2emZLUXFRcjUyYTdSWERRUDN1V1M/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/gZ1u5wA/sdk26fd63e8" target="_blank"><span data-link="https://promos.discord.gg/XNFvzfKQqQr52a7RXDQP3uWS" style="display:inline-block;background:#0078f2;color:#ffffff;font-size:16px;font-weight:bold;line-height:1.2;margin:0;text-align:center;text-decoration:none;text-transform:none;padding:10px 45px 10px 45px;border-radius:3px;box-sizing:border-box;">Redeem Now</span></a></p>
+<p style="padding:7.5px;"></p>
+<p style="padding:7.5px;"></p>
+<p>Nitro Offer ends December 17, 2024 at 11:00 AM EDT and codes expire January 16, 2025 at</p>
+<p>11:59 PM EDT. Offer valid for new and returning Nitro users. Subscription auto-renews for</p>
+<p>$9.99/month unless canceled. See <a href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly9zdG9yZS5lcGljZ2FtZXMuY29tL2VuLVVTL3AvZGlzY29yZC0tZnJlZS1kaXNjb3JkLW5pdHJvLW9mZmVyLWZhcQ/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/qP2J0X3VzZXJfaWQ9Vnhsd0FDJTJGNmlIYzVuMDBnemhObkpsNmdxSVdQYkV5TDVnZ08lMkY4U1FyMEEwNk1paWdHUU1URE16UDNMRlBvcUFhQkdKNFN5T1lnZmhQMDJKRjdaWnBGd0R5WkRiN0V6TVEwelBkOU1NcTQ0d1Uza2clMkJDOGNyaXMyOTd4TDFCQyUyQiZidF90cz0xNzM0MDY0NTYxMTk1/gZ1u5wA/seu357fd92c" target="">FAQ</a> for details.</p>
+ 
+  		</span> 
+  		</p> 
+  	</div>
+  </td>
+  
+</tr>
+<tr>
+<td align="center" class="text-container" style="font-size: 0px; padding: 0px 25px; word-break: break-word;">
+<div style="color: #000000; font-family: Arial, sans-serif; font-size: 13px; letter-spacing: none; line-height: 1.2;" align="center"> </div>
+</td>
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+  <tr>
+   <td align="center">
+<!-- Start help -->
+<div style="color: #cccccc; font-family: arial, helvetica, sans-serif; font-size: 10px; font-weight: bold; line-height: 12px; mso-line-height-rule: exactly;" align="center">
+  <!-- Start help -->  
+
+ <div style="font-family: arial, helvetica, sans-serif;font-weight:bold; mso-line-height-rule: exactly; font-size:10px; color:#202020; text-align:center; line-height:12px">
+ Need Help?  <a style="text-decoration:none;color:#037aee" href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly9oZWxwLmVwaWNnYW1lcy5jb20/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/qP2J0X3VzZXJfaWQ9Vnhsd0FDJTJGNmlIYzVuMDBnemhObkpsNmdxSVdQYkV5TDVnZ08lMkY4U1FyMEEwNk1paWdHUU1URE16UDNMRlBvcUFhQkdKNFN5T1lnZmhQMDJKRjdaWnBGd0R5WkRiN0V6TVEwelBkOU1NcTQ0d1Uza2clMkJDOGNyaXMyOTd4TDFCQyUyQiZidF90cz0xNzM0MDY0NTYxMTk1/gZ1u5wA/sepa086d52e" data-location="t1">help.epicgames.com</a><br>
+</div>
+
+
+<!-- End help --><br>
+</div>
+<!-- End help -->                                 
+    </td>   
+  </tr>
+  <tr>
+<td align="center" dir="rtl">
+<div style="color: #cccccc; font-family: arial, helvetica, sans-serif; font-size: 10px; line-height: 12px; mso-line-height-rule: exactly;" align="center">
+<p style="display: block; margin: 0;">
+© 2024 Epic Games, Inc. All rights reserved. Epic, Epic Games, the Epic Games logo, Unreal, Unreal Engine, UE5, the Unreal Engine logo, Epic Games Store, the Epic Games Store logo, Fab and the Fab logo are trademarks or registered trademarks of Epic Games, Inc. in the USA and elsewhere. All other trademarks are the property of their respective owners.
+
+</p>
+</div>
+</td>  
+  </tr>
+  <tr>
+<td align="center" dir="rtl">
+<div style="color: #cccccc; font-family: arial, helvetica, sans-serif; font-size: 10px; line-height: 12px; mso-line-height-rule: exactly;" dir="rtl" align="center">
+
+                <a style="color:#037AEE; text-decoration:underline" href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly93d3cuZXBpY2dhbWVzLmNvbS90b3M/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/qP2J0X3VzZXJfaWQ9Vnhsd0FDJTJGNmlIYzVuMDBnemhObkpsNmdxSVdQYkV5TDVnZ08lMkY4U1FyMEEwNk1paWdHUU1URE16UDNMRlBvcUFhQkdKNFN5T1lnZmhQMDJKRjdaWnBGd0R5WkRiN0V6TVEwelBkOU1NcTQ0d1Uza2clMkJDOGNyaXMyOTd4TDFCQyUyQiZidF90cz0xNzM0MDY0NTYxMTk1/gZ1u5wA/screa1b5044">Terms of Service</a>
+
+                 | 
+
+                
+                <a style="color:#037AEE; text-decoration:underline" href="https://e.acct.epicgames.com/click?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/VaHR0cHM6Ly93d3cuZXBpY2dhbWVzLmNvbS9wcml2YWN5cG9saWN5/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/qP2J0X3VzZXJfaWQ9Vnhsd0FDJTJGNmlIYzVuMDBnemhObkpsNmdxSVdQYkV5TDVnZ08lMkY4U1FyMEEwNk1paWdHUU1URE16UDNMRlBvcUFhQkdKNFN5T1lnZmhQMDJKRjdaWnBGd0R5WkRiN0V6TVEwelBkOU1NcTQ0d1Uza2clMkJDOGNyaXMyOTd4TDFCQyUyQiZidF90cz0xNzM0MDY0NTYxMTk1/gZ1u5wA/s7n514e589e">Privacy Policy</a>
+
+                 
+</div>
+</td>
+  </tr>
+  <tr height="20">
+    <td width="100%" height="20" align="center" style="color: #cccccc; font-family: arial, helvetica, sans-serif; font-size: 10px; line-height: 12px; mso-line-height-rule: exactly;">Box 254, 2474 Walnut Street, Cary, North Carolina, 27518</td>
+    </tr>
+<tr>  
+</tr>
+</table>
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<!--[if mso | IE]>
+</td>
+</tr>
+</table><![endif]-->
+</td>
+</tr>
+</tbody>
+</table>
+</div>
+<img src="https://e.acct.epicgames.com/open?EamV3ZWwzMjUyNkBwajJqLmhvY2tleWNyYXNoLmluZm8/CeyJtaWQiOiIxNzM0MDY0NTYxMTk0MWIxMDhmZjFjOTM2IiwiY3QiOiJlcGljLXR4LXByb2QtYzNjM2EwYzU3YzM0MzI1YjAzODI3ZDUxY2JiZmQ0ODItMCIsInJkIjoicGoyai5ob2NrZXljcmFzaC5pbmZvIn0/V/SWkhfYWNjdF9OTlRBTjEyMTMyMDI0YzEyODkzNDViMA/LYWUx/gZ1u5wA/s9i80133b4b" height="2" width="3" alt=""></body></html>
+
